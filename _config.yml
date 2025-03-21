@@ -1,0 +1,27 @@
+title: "Sample Site - Just the Docs"
+description: "PhD academic site with clean layout"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+baseurl: "/basic_site"
+locale: en
+
+just_the_docs:
+  search_enabled: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "{{ site.baseurl }}/assets/css/custom.css"
+
+# placeholder variables
+student_name: "[Student Name]"
+university: "LAMSADE, Université Paris Dauphine - PSL"
+current_position: "PhD Student"
+supervisor: "[supervisor]"
