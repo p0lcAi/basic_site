@@ -63,5 +63,3 @@ TL;DR: Works with gifs.
 
 
 [PDF](#) | [Code](#)
-
----
