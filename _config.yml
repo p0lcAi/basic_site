@@ -19,9 +19,19 @@ defaults:
       type: "pages"
     values:
       css: "{{ site.baseurl }}/assets/css/custom.css"
+      head: "head_custom"
+      footer: "footer_custom"
 
 # placeholder variables
 student_name: "[Student Name]"
 university: "LAMSADE, Université Paris Dauphine - PSL"
 current_position: "PhD Student"
 supervisor: "[supervisor]"
+email: "surname.name@dauphine.psl.eu"
+
+# Socials
+social_links:
+  google_scholar: "https://scholar.google.com/"
+  linkedin: "https://www.linkedin.com/"
+  twitter: "https://twitter.com/"
+  github: "https://github.com/"

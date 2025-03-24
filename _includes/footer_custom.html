@@ -1,0 +1,26 @@
+<hr>
+<footer class="site-footer" style="text-align: center; font-size: 0.9em; padding-top: 1rem;">
+  <p>
+    <strong>Contact</strong> —
+    <a href="mailto:{{ site.email | replace: '@', '[at]' | replace: '.', '[dot]' }}">
+      {{ site.email | replace: '@', '[at]' | replace: '.', '[dot]' }}
+    </a>
+  </p>
+
+  <p>
+    <strong>Follow me:</strong><br>
+    <a href="{{ site.social_links.google_scholar }}" target="_blank">
+      <i class="fas fa-graduation-cap"></i> Google Scholar
+    </a> &nbsp;|&nbsp;
+    <a href="{{ site.social_links.linkedin }}" target="_blank">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a> &nbsp;|&nbsp;
+    <a href="{{ site.social_links.github }}" target="_blank">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+  </p>
+
+  <p style="opacity: 0.6;">
+    &copy; {{ site.time | date: "%Y" }} {{ site.student_name }} · {{ site.university }}
+  </p>
+</footer>

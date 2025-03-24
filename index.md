@@ -54,3 +54,14 @@ TL;DR: We show something else.
 ---
 
 
+### 3. **Title C**
+**Journal C** — with A. Supervisor  
+TL;DR: Works with gifs.
+<img src="{{ site.baseurl }}/assets/img/gif_example.gif" alt="gif" class="img-centered">
+
+
+
+
+[PDF](#) | [Code](#)
+
+---
