@@ -1,0 +1,67 @@
+{
+  "conferences": {
+    "EMNLP 2026": {
+      "month": "2026-10",
+      "source": "https://2026.emnlp.org/registration/"
+    },
+    "ECML PKDD 2026": {
+      "month": "2026-09",
+      "source": "https://ecmlpkdd.org/2026/"
+    },
+    "ICML 2026": {
+      "month": "2026-07",
+      "source": "https://icml.cc/Conferences/2026/CallForPapers"
+    },
+    "ICLR 2026": {
+      "month": "2026-04",
+      "source": "https://iclr.cc/Conferences/2026/Dates"
+    },
+    "AI&PDE · ICLR 2026 Workshop": {
+      "month": "2026-04",
+      "source": "https://iclr.cc/Conferences/2026/Dates"
+    },
+    "ECAI 2025": {
+      "month": "2025-10",
+      "source": "https://ecai2025.org/"
+    },
+    "ICCV Workshops 2025": {
+      "month": "2025-10",
+      "source": "https://iccv.thecvf.com/Conferences/2025/Dates"
+    },
+    "AISTATS 2025": {
+      "month": "2025-05",
+      "source": "https://aistats.org/aistats2025/"
+    },
+    "ICLR 2025": {
+      "month": "2025-04",
+      "source": "https://iclr.cc/Conferences/2025/Dates"
+    },
+    "EMNLP 2024": {
+      "month": "2024-11",
+      "source": "https://2024.emnlp.org/"
+    }
+  },
+  "papers": {
+    "Across the Loss Landscape with Progressive Growth": {
+      "award": "Best Paper Award 🏆"
+    },
+    "Accelerated Training through Iterative Gradient Propagation Along the Residual Path": {
+      "presentation": "Oral"
+    },
+    "Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity": {
+      "equal_contributors": [
+        "Hangyue Zhao",
+        "Paul Caillon",
+        "Erwan Fagnou"
+      ],
+      "venue_label": "EMNLP 2026 · Main"
+    },
+    "Forward Only Learning for Orthogonal Neural Networks of Any Depth": {
+      "equal_contributors": [
+        "Paul Caillon",
+        "Alex Colagrande"
+      ]
+    }
+  },
+  "first_publication": "Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity"
+}

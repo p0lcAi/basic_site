@@ -1,16 +1,20 @@
-title: "Sample Site"
-description: "My site"
-
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
-
-baseurl: "/basic_site"
+title: "Paul Caillon"
+description: "Paul Caillon is an Associate Professor at Université Paris Dauphine – PSL working on frugal and efficient deep learning."
+url: "https://pcaillon.com"
+baseurl: ""
 locale: en
+lang: en
+markdown: kramdown
+data_dir: data
+permalink: pretty
+timezone: Europe/Paris
 
-just_the_docs:
-  search_enabled: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - data/publication-overrides.json
 
 defaults:
   -
@@ -18,20 +22,15 @@ defaults:
       path: ""
       type: "pages"
     values:
-      css: "{{ site.baseurl }}/assets/css/custom.css"
-      head: "head_custom"
-      footer: "footer_custom"
+      layout: default
 
-# placeholder variables
-student_name: "[Student Name]"
-university: "LAMSADE, Université Paris Dauphine - PSL"
-current_position: "PhD Student"
-supervisor: "[supervisor]"
-email: "surname.name@dauphine.psl.eu"
-
-# Socials
-social_links:
-  google_scholar: "https://scholar.google.com/"
-  linkedin: "https://www.linkedin.com/"
-  twitter: "https://twitter.com/"
-  github: "https://github.com/"
+author:
+  name: "Paul Caillon"
+  job_title: "Associate Professor"
+  email: "paul.caillon@dauphine.psl.eu"
+  affiliation: "Université Paris Dauphine – PSL"
+  affiliation_url: "https://dauphine.psl.eu/"
+  team: "MILES · LAMSADE"
+  team_url: "https://miles.lamsade.fr/"
+  scholar_url: "https://scholar.google.com/citations?user=K7QO-n8AAAAJ&hl=en"
+  github_url: "https://github.com/p0lcAi"

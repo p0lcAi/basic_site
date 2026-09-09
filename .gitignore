@@ -7,6 +7,5 @@ vendor/
 *.log
 .DS_Store
 .nojekyll
-Gemfile
-Gemfile.lock
-
+__pycache__/
+*.pyc

@@ -1,0 +1,138 @@
+{
+  "exclude": [
+    "title:Supplementary Material for Across the Loss Landscape with Progressive Growth",
+    "title:Supplementary Material for Forward Only Learning for Orthogonal Neural Networks of any Depth",
+    "title:Pourquoi l IA generative consomme t elle tant d energie",
+    "title:Apprentissage profond sans supervision directe pour le traitement automatique des langues",
+    "title:Mesures des proprietes dielectriques des substances a fortes pertes"
+  ],
+  "overrides": {
+    "title:Across the Loss Landscape with Progressive Growth": {
+      "venue": "ECML PKDD 2026",
+      "venue_url": null,
+      "published": true,
+      "code": "https://github.com/p0lcAi/Across-the-Loss-Landscape"
+    },
+    "title:Higher-Order Fourier Neural Operator Explicit Mode Mixer for Nonlinear PDEs": {
+      "venue": "arXiv preprint",
+      "venue_url": null,
+      "published": false,
+      "code": "https://github.com/AlexColagrande/HO-FNO"
+    },
+    "title:Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing": {
+      "venue": "ICML 2026",
+      "venue_url": null,
+      "published": true
+    },
+    "title:Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity": {
+      "venue": "EMNLP 2026",
+      "venue_url": null,
+      "published": true
+    },
+    "title:Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing": {
+      "venue": "ICML 2026",
+      "venue_url": null,
+      "published": true,
+      "code": "https://github.com/tdsai-lab/hybrid-randomized-smoothing"
+    },
+    "title:Limits of Resolution Equivariance in Fourier Neural Operators": {
+      "venue": "AI&PDE · ICLR 2026 Workshop",
+      "venue_url": "https://openreview.net/forum?id=7BUtdMfzay",
+      "published": true
+    },
+    "title:Linear Attention with Global Context A Multipole Attention Mechanism for Vision and Physics": {
+      "venue": "ICCV Workshops 2025",
+      "venue_url": null,
+      "published": true,
+      "code": "https://github.com/AlexColagrande/MANO"
+    },
+    "title:Forward Only Learning for Orthogonal Neural Networks of Any Depth": {
+      "title": "Forward Only Learning for Orthogonal Neural Networks of Any Depth",
+      "date": "2025-10-21",
+      "venue": "ECAI 2025",
+      "venue_url": "https://journals.sagepub.com/doi/10.3233/FAIA251041",
+      "doi": "10.3233/FAIA251041",
+      "published": true,
+      "code": "https://github.com/p0lcAi/FOTON"
+    },
+    "title:Bridging the Theoretical Gap in Randomized Smoothing": {
+      "venue": "AISTATS 2025",
+      "venue_url": "https://proceedings.mlr.press/v258/delattre25a.html",
+      "published": true,
+      "code": "https://github.com/blaisedelattre/bridging_the_gap_rs"
+    },
+    "title:Fast Training of Recurrent Neural Networks with Stationary State Feedbacks": {
+      "venue": "arXiv preprint",
+      "venue_url": null,
+      "published": false,
+      "code": "https://github.com/p0lcAi/DSF"
+    },
+    "title:Accelerated Training through Iterative Gradient Propagation Along the Residual Path": {
+      "venue": "ICLR 2025",
+      "venue_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/a4a3e34e761eebd8033f2f8ce38b9738-Abstract-Conference.html",
+      "published": true,
+      "code": "https://github.com/ErwanFagnou/HighwayBP"
+    },
+    "title:Chain and Causal Attention for Efficient Entity Tracking": {
+      "authors": [
+        "Erwan Fagnou",
+        "Paul Caillon",
+        "Blaise Delattre",
+        "Alexandre Allauzen"
+      ],
+      "venue": "EMNLP 2024",
+      "venue_url": "https://aclanthology.org/2024.emnlp-main.731/",
+      "doi": "10.18653/v1/2024.emnlp-main.731",
+      "pdf": "https://aclanthology.org/2024.emnlp-main.731.pdf",
+      "published": true,
+      "code": "https://github.com/ErwanFagnou/ChaCAL"
+    },
+    "title:Growing Neural Networks have Flat Optima and Generalize Better": {
+      "venue": "HAL research report",
+      "venue_url": "https://hal.science/hal-04697428",
+      "pdf": "https://hal.science/hal-04697428v1/file/paper.pdf",
+      "published": false
+    },
+    "title:Growing Neural Networks Achieve Flatter Minima": {
+      "venue": "ICANN 2021",
+      "venue_url": null,
+      "pdf": "https://hal.science/hal-03402267/document",
+      "published": true
+    },
+    "title:Unsupervised Post-Tuning of Deep Neural Networks": {
+      "venue": "IJCNN 2021",
+      "venue_url": null,
+      "pdf": "https://hal.science/hal-02022062/document",
+      "published": true
+    }
+  },
+  "additions": [
+    {
+      "title": "Scaling Direct Feedback Learning with Jacobian Alignment Guarantees",
+      "authors": [
+        "Paul Caillon",
+        "Erwan Fagnou",
+        "Blaise Delattre",
+        "Alexandre Allauzen"
+      ],
+      "year": 2026,
+      "venue": "ICLR 2026",
+      "venue_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2b1c608556ce011d3a3381fe0c527136-Abstract-Conference.html",
+      "published": true
+    },
+    {
+      "title": "Activation Decay by Loss Smoothing to Enhance Generalization",
+      "authors": [
+        "Blaise Delattre",
+        "Quentin Barthélemy",
+        "Paul Caillon",
+        "Erwan Fagnou",
+        "Alexandre Allauzen"
+      ],
+      "year": 2025,
+      "venue": "OpenReview manuscript",
+      "venue_url": "https://openreview.net/forum?id=InRaT76E2S",
+      "published": false
+    }
+  ]
+}

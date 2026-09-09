@@ -1,0 +1,267 @@
+[
+  {
+    "title": "Across the Loss Landscape with Progressive Growth",
+    "authors": [
+      "Paul Caillon",
+      "Christophe Cerisara",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-08-25",
+    "venue": "ECML PKDD 2026",
+    "arxiv": "https://arxiv.org/abs/2608.24568",
+    "pdf": "https://arxiv.org/pdf/2608.24568",
+    "code": "https://github.com/p0lcAi/Across-the-Loss-Landscape",
+    "published": true
+  },
+  {
+    "title": "Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs",
+    "authors": [
+      "Alex Colagrande",
+      "Paul Caillon",
+      "Eva Feillet",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-06-26",
+    "venue": "arXiv preprint",
+    "arxiv": "https://arxiv.org/abs/2606.28122",
+    "pdf": "https://arxiv.org/pdf/2606.28122",
+    "code": "https://github.com/AlexColagrande/HO-FNO",
+    "published": false
+  },
+  {
+    "title": "Limits of Resolution Equivariance in Fourier Neural Operators",
+    "authors": [
+      "Alex Colagrande",
+      "Paul Caillon",
+      "Eva Feillet",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-05-30",
+    "venue": "AI&PDE · ICLR 2026 Workshop",
+    "venue_url": "https://openreview.net/forum?id=7BUtdMfzay",
+    "arxiv": "https://arxiv.org/abs/2606.00677",
+    "pdf": "https://arxiv.org/pdf/2606.00677",
+    "published": true
+  },
+  {
+    "title": "Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing",
+    "authors": [
+      "Erwan Fagnou",
+      "Paul Caillon",
+      "Blaise Delattre",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-05-29",
+    "venue": "ICML 2026",
+    "arxiv": "https://arxiv.org/abs/2605.31367",
+    "pdf": "https://arxiv.org/pdf/2605.31367",
+    "published": true
+  },
+  {
+    "title": "Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity",
+    "authors": [
+      "Hangyue Zhao",
+      "Paul Caillon",
+      "Erwan Fagnou",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-05-21",
+    "venue": "EMNLP 2026",
+    "arxiv": "https://arxiv.org/abs/2605.22476",
+    "pdf": "https://arxiv.org/pdf/2605.22476",
+    "published": true
+  },
+  {
+    "title": "Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing",
+    "authors": [
+      "Blaise Delattre",
+      "Hengyu Wu",
+      "Paul Caillon",
+      "Wei Yang Bryan Lim",
+      "Yang Cao"
+    ],
+    "year": 2026,
+    "date": "2026-05-13",
+    "venue": "ICML 2026",
+    "arxiv": "https://arxiv.org/abs/2605.12876",
+    "pdf": "https://arxiv.org/pdf/2605.12876",
+    "code": "https://github.com/tdsai-lab/hybrid-randomized-smoothing",
+    "published": true
+  },
+  {
+    "title": "Scaling Direct Feedback Learning with Jacobian Alignment Guarantees",
+    "authors": [
+      "Paul Caillon",
+      "Erwan Fagnou",
+      "Blaise Delattre",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "venue": "ICLR 2026",
+    "venue_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2b1c608556ce011d3a3381fe0c527136-Abstract-Conference.html",
+    "published": true
+  },
+  {
+    "title": "Forward Only Learning for Orthogonal Neural Networks of Any Depth",
+    "authors": [
+      "Paul Caillon",
+      "Alex Colagrande",
+      "Erwan Fagnou",
+      "Blaise Delattre",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "date": "2025-10-21",
+    "venue": "ECAI 2025",
+    "venue_url": "https://journals.sagepub.com/doi/10.3233/FAIA251041",
+    "doi": "https://doi.org/10.3233/faia251041",
+    "arxiv": "https://arxiv.org/abs/2512.20668",
+    "pdf": "https://arxiv.org/pdf/2512.20668",
+    "code": "https://github.com/p0lcAi/FOTON",
+    "published": true
+  },
+  {
+    "title": "Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics",
+    "authors": [
+      "Alex Colagrande",
+      "Paul Caillon",
+      "Eva Feillet",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "date": "2025-10-19",
+    "venue": "ICCV Workshops 2025",
+    "doi": "https://doi.org/10.1109/iccvw69036.2025.00326",
+    "arxiv": "https://arxiv.org/abs/2507.02748",
+    "pdf": "https://arxiv.org/pdf/2507.02748",
+    "code": "https://github.com/AlexColagrande/MANO",
+    "published": true
+  },
+  {
+    "title": "Bridging the Theoretical Gap in Randomized Smoothing",
+    "authors": [
+      "Blaise Delattre",
+      "Paul Caillon",
+      "Quentin Barthélemy",
+      "Erwan Fagnou",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "date": "2025-04-03",
+    "venue": "AISTATS 2025",
+    "venue_url": "https://proceedings.mlr.press/v258/delattre25a.html",
+    "arxiv": "https://arxiv.org/abs/2504.02412",
+    "pdf": "https://arxiv.org/pdf/2504.02412",
+    "code": "https://github.com/blaisedelattre/bridging_the_gap_rs",
+    "published": true
+  },
+  {
+    "title": "Fast Training of Recurrent Neural Networks with Stationary State Feedbacks",
+    "authors": [
+      "Paul Caillon",
+      "Erwan Fagnou",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "date": "2025-03-29",
+    "venue": "arXiv preprint",
+    "arxiv": "https://arxiv.org/abs/2503.23104",
+    "pdf": "https://arxiv.org/pdf/2503.23104",
+    "code": "https://github.com/p0lcAi/DSF",
+    "published": false
+  },
+  {
+    "title": "Accelerated Training through Iterative Gradient Propagation Along the Residual Path",
+    "authors": [
+      "Erwan Fagnou",
+      "Paul Caillon",
+      "Blaise Delattre",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "date": "2025-01-28",
+    "venue": "ICLR 2025",
+    "venue_url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/a4a3e34e761eebd8033f2f8ce38b9738-Abstract-Conference.html",
+    "arxiv": "https://arxiv.org/abs/2501.17086",
+    "pdf": "https://arxiv.org/pdf/2501.17086",
+    "code": "https://github.com/ErwanFagnou/HighwayBP",
+    "published": true
+  },
+  {
+    "title": "Activation Decay by Loss Smoothing to Enhance Generalization",
+    "authors": [
+      "Blaise Delattre",
+      "Quentin Barthélemy",
+      "Paul Caillon",
+      "Erwan Fagnou",
+      "Alexandre Allauzen"
+    ],
+    "year": 2025,
+    "venue": "OpenReview manuscript",
+    "venue_url": "https://openreview.net/forum?id=InRaT76E2S",
+    "published": false
+  },
+  {
+    "title": "Chain and Causal Attention for Efficient Entity Tracking",
+    "authors": [
+      "Erwan Fagnou",
+      "Paul Caillon",
+      "Blaise Delattre",
+      "Alexandre Allauzen"
+    ],
+    "year": 2024,
+    "date": "2024-10-28",
+    "venue": "EMNLP 2024",
+    "venue_url": "https://aclanthology.org/2024.emnlp-main.731/",
+    "doi": "https://doi.org/10.18653/v1/2024.emnlp-main.731",
+    "arxiv": "https://arxiv.org/abs/2410.05565",
+    "pdf": "https://aclanthology.org/2024.emnlp-main.731.pdf",
+    "code": "https://github.com/ErwanFagnou/ChaCAL",
+    "published": true
+  },
+  {
+    "title": "Growing Neural Networks have Flat Optima and Generalize Better",
+    "authors": [
+      "Paul Caillon",
+      "Christophe Cerisara"
+    ],
+    "year": 2024,
+    "date": "2024-09-13",
+    "venue": "HAL research report",
+    "venue_url": "https://hal.science/hal-04697428",
+    "pdf": "https://hal.science/hal-04697428v1/file/paper.pdf",
+    "published": false
+  },
+  {
+    "title": "Unsupervised Post-Tuning of Deep Neural Networks",
+    "authors": [
+      "Christophe Cerisara",
+      "Paul Caillon",
+      "Guillaume Le Berre"
+    ],
+    "year": 2021,
+    "date": "2021-07-18",
+    "venue": "IJCNN 2021",
+    "doi": "https://doi.org/10.1109/ijcnn52387.2021.9534198",
+    "pdf": "https://hal.science/hal-02022062/document",
+    "published": true
+  },
+  {
+    "title": "Growing Neural Networks Achieve Flatter Minima",
+    "authors": [
+      "Paul Caillon",
+      "Christophe Cerisara"
+    ],
+    "year": 2021,
+    "date": "2021-01-01",
+    "venue": "ICANN 2021",
+    "doi": "https://doi.org/10.1007/978-3-030-86340-1_18",
+    "pdf": "https://hal.science/hal-03402267/document",
+    "published": true
+  }
+]

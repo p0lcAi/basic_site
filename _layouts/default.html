@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  {% include head_custom.html %}
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div class="site-shell">
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Paul Caillon, home">Paul Caillon's Homepage</a>
+        <div class="nav-tools">
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}#news">News</a>
+          <a href="{{ '/' | relative_url }}#research">Research</a>
+          <a href="{{ '/' | relative_url }}#publications">Publications</a>
+        </div>
+  <nav class="profile-links" aria-label="Academic profiles">
+    <a
+      class="profile-logo-link"
+      href="{{ site.author.scholar_url }}"
+      aria-label="Google Scholar"
+      title="Google Scholar"
+    >
+      <img
+        src="{{ '/assets/img/google-scholar.svg' | relative_url }}"
+        alt=""
+        width="24"
+        height="24"
+      >
+    </a>
+
+    <a
+      class="profile-logo-link"
+      href="{{ site.author.github_url }}"
+      aria-label="GitHub"
+      title="GitHub"
+    >
+      <img
+        src="{{ '/assets/img/github.svg' | relative_url }}"
+        alt=""
+        width="24"
+        height="24"
+      >
+    </a>
+  </nav>
+        </div>
+      </nav>
+      {{ content }}
+      {% include footer_custom.html %}
+    </div>
+  </body>
+</html>

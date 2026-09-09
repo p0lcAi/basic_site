@@ -1,26 +1,12 @@
-<hr>
-<footer class="site-footer" style="text-align: center; font-size: 0.9em; padding-top: 1rem;">
-  <p>
-    <strong>Contact</strong> —
-    <a href="mailto:{{ site.email | replace: '@', '[at]' | replace: '.', '[dot]' }}">
-      {{ site.email | replace: '@', '[at]' | replace: '.', '[dot]' }}
-    </a>
-  </p>
-
-  <p>
-    <strong>Follow me:</strong><br>
-    <a href="{{ site.social_links.google_scholar }}" target="_blank">
-      <i class="fas fa-graduation-cap"></i> Google Scholar
-    </a> &nbsp;|&nbsp;
-    <a href="{{ site.social_links.linkedin }}" target="_blank">
-      <i class="fab fa-linkedin"></i> LinkedIn
-    </a> &nbsp;|&nbsp;
-    <a href="{{ site.social_links.github }}" target="_blank">
-      <i class="fab fa-github"></i> GitHub
-    </a>
-  </p>
-
-  <p style="opacity: 0.6;">
-    &copy; {{ site.time | date: "%Y" }} {{ site.student_name }} · {{ site.university }}
-  </p>
+<footer class="site-footer">
+  <div>
+    <p class="footer-name">{{ site.author.name }}</p>
+    <p>{{ site.author.job_title }} · {{ site.author.affiliation }}</p>
+  </div>
+  <div class="footer-links" aria-label="Contact and profiles">
+    <a href="mailto:{{ site.author.email }}">Email</a>
+    <a href="{{ site.author.scholar_url }}">Scholar <span aria-hidden="true">↗</span></a>
+    <a href="{{ site.author.github_url }}">GitHub <span aria-hidden="true">↗</span></a>
+    <a href="#top" aria-label="Back to top">↑</a>
+  </div>
 </footer>

@@ -1,14 +1,43 @@
-<style>
-    .university-logo {
-      position: absolute;
-      top: 0rem;
-      right: 1rem;
-      height: 150px;
-      z-index: 1000;
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <meta name="theme-color" content="#f4f2ed">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Paul Caillon",
+      "url": "https://pcaillon.com/",
+      "jobTitle": "Associate Professor",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Université Paris Dauphine – PSL",
+        "url": "https://dauphine.psl.eu/"
+      },
+      "memberOf": {
+        "@type": "Organization",
+        "name": "MILES, LAMSADE",
+        "url": "https://miles.lamsade.fr/"
+      },
+      "sameAs": [
+        "https://scholar.google.com/citations?user=K7QO-n8AAAAJ&hl=en",
+        "https://github.com/p0lcAi"
+      ]
     }
-  </style>
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  
-  
-  <img src="{{ site.baseurl }}/assets/img/dauphine_logo.png" alt="Dauphine logo" class="university-logo">
+  </script>
+</head>
