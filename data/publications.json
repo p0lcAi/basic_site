@@ -239,6 +239,17 @@
     "published": false
   },
   {
+    "title": "Weakly Supervised Deep Learning for Natural Language Processing",
+    "authors": [
+      "Paul Caillon"
+    ],
+    "year": 2023,
+    "date": "2023-05-31",
+    "venue": "theses.fr (ABES)",
+    "venue_url": "http://www.theses.fr/2023LORR0406/document",
+    "pdf": "http://www.theses.fr/2023LORR0406/document"
+  },
+  {
     "title": "Unsupervised Post-Tuning of Deep Neural Networks",
     "authors": [
       "Christophe Cerisara",
