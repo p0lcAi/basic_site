@@ -63,21 +63,6 @@
     "published": true
   },
   {
-    "title": "Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity",
-    "authors": [
-      "Hangyue Zhao",
-      "Paul Caillon",
-      "Erwan Fagnou",
-      "Alexandre Allauzen"
-    ],
-    "year": 2026,
-    "date": "2026-05-21",
-    "venue": "EMNLP 2026",
-    "arxiv": "https://arxiv.org/abs/2605.22476",
-    "pdf": "https://arxiv.org/pdf/2605.22476",
-    "published": true
-  },
-  {
     "title": "Certified Robustness under Heterogeneous Perturbations via Hybrid Randomized Smoothing",
     "authors": [
       "Blaise Delattre",
@@ -105,6 +90,22 @@
     "year": 2026,
     "venue": "ICLR 2026",
     "venue_url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2b1c608556ce011d3a3381fe0c527136-Abstract-Conference.html",
+    "published": true
+  },
+  {
+    "title": "Structured-Sparse Attention for Entity Tracking with Subquadratic Sequence Complexity",
+    "authors": [
+      "Hangyue Zhao",
+      "Paul Caillon",
+      "Erwan Fagnou",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-01-01",
+    "venue": "EMNLP 2026",
+    "doi": "https://doi.org/10.18653/2026.emnlp-main.2505",
+    "arxiv": "https://arxiv.org/abs/2605.22476",
+    "pdf": "https://arxiv.org/pdf/2605.22476",
     "published": true
   },
   {
