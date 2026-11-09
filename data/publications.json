@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Behavioral Rate of Fine-Tuning: Compression as a Measure of Useful Information",
+    "authors": [
+      "Joey David",
+      "Paul Caillon",
+      "Alexandre Allauzen"
+    ],
+    "year": 2026,
+    "date": "2026-11-04",
+    "venue": "arXiv (Cornell University)",
+    "venue_url": "https://arxiv.org/abs/2611.06598",
+    "arxiv": "https://arxiv.org/abs/2611.06598",
+    "pdf": "https://arxiv.org/pdf/2611.06598"
+  },
+  {
     "title": "Across the Loss Landscape with Progressive Growth",
     "authors": [
       "Paul Caillon",
@@ -238,17 +252,6 @@
     "venue_url": "https://hal.science/hal-04697428",
     "pdf": "https://hal.science/hal-04697428v1/file/paper.pdf",
     "published": false
-  },
-  {
-    "title": "Weakly Supervised Deep Learning for Natural Language Processing",
-    "authors": [
-      "Paul Caillon"
-    ],
-    "year": 2023,
-    "date": "2023-05-31",
-    "venue": "theses.fr (ABES)",
-    "venue_url": "http://www.theses.fr/2023LORR0406/document",
-    "pdf": "http://www.theses.fr/2023LORR0406/document"
   },
   {
     "title": "Unsupervised Post-Tuning of Deep Neural Networks",
