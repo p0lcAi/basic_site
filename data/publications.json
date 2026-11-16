@@ -254,6 +254,19 @@
     "published": false
   },
   {
+    "title": "Growing Neural Networks Achieve Flatter Minima",
+    "authors": [
+      "Paul Caillon",
+      "Christophe Cerisara"
+    ],
+    "year": 2021,
+    "date": "2021-09-07",
+    "venue": "ICANN 2021",
+    "doi": "https://doi.org/10.1007/978-3-030-86340-1_18",
+    "pdf": "https://hal.science/hal-03402267/document",
+    "published": true
+  },
+  {
     "title": "Unsupervised Post-Tuning of Deep Neural Networks",
     "authors": [
       "Christophe Cerisara",
@@ -265,19 +278,6 @@
     "venue": "IJCNN 2021",
     "doi": "https://doi.org/10.1109/ijcnn52387.2021.9534198",
     "pdf": "https://hal.science/hal-02022062/document",
-    "published": true
-  },
-  {
-    "title": "Growing Neural Networks Achieve Flatter Minima",
-    "authors": [
-      "Paul Caillon",
-      "Christophe Cerisara"
-    ],
-    "year": 2021,
-    "date": "2021-01-01",
-    "venue": "ICANN 2021",
-    "doi": "https://doi.org/10.1007/978-3-030-86340-1_18",
-    "pdf": "https://hal.science/hal-03402267/document",
     "published": true
   }
 ]
